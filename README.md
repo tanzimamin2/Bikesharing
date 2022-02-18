@@ -61,4 +61,5 @@ From our analysis, we can conclude the folowing:-
 
 ## Links
   * Visit this [link](https://github.com/tanzimamin2/Bikesharing) for other resources.
+  * Tableau Public [link](https://public.tableau.com/app/profile/tanzim.amin/viz/bikesharing_16451367548010/CheckoutTimesforUsers#1)
    
