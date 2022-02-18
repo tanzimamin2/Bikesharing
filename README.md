@@ -19,7 +19,7 @@ As the graph shows, most of the bikes were used for a duration of 20 mins or les
 ### Checkout Times for Gender
 ![image](https://user-images.githubusercontent.com/93144225/154585920-84275b6c-7039-47ff-af08-c1cf34f55fc0.png)
 
-Our customer base mostly consists of men, it would be beneficial if we market our business more towards the female demographic. This would help us get more customers.
+This graph shows us bike usage times based on gender.
 
 ### Trips by Weekday per Hour
 ![image](https://user-images.githubusercontent.com/93144225/154586783-3281d592-e186-4e6a-b56b-8bdf0801a3cf.png)
@@ -30,17 +30,35 @@ Weekdays from 6am to 9am and in the evening from 5pm to 7pm, we have highest bik
 
 ![image](https://user-images.githubusercontent.com/93144225/154588152-f0f55c2d-1f46-44fe-81ec-06194ac73906.png)
 
-Users can easily filter according to their criteria, they just input the information into their respective fields and hit enter. The results will show up on the righthand side of the webpage, all the information will be organised in their respective columns.
+This heatmap shows high demand times by gender during the days of the week and by hour of the day. We can conclude that males are renting more at the high demand times versus females.
 
-![ffff](https://user-images.githubusercontent.com/93144225/151266019-83fd0fe1-1cfd-40b5-8ade-283be844f792.png)
+### User Trips by Gender by Weekday
+
+![image](https://user-images.githubusercontent.com/93144225/154592253-e6353500-5d33-4fdf-92df-f2d55fd5eb7b.png)
+
+This graph shows the number of trips by weekday, by user type (subscribers versus customers) and by gender. In the subscriber category, males have higher number of trips compared to females.
+
+### User types
+
+![image](https://user-images.githubusercontent.com/93144225/154593541-40e44a2b-0c79-4418-8ce7-bae98be6d35c.png)
+
+This pie chart shows our user types (subscribers versus customers).
+
+### Riders by Gender
+
+![image](https://user-images.githubusercontent.com/93144225/154593651-d4029384-f831-44b6-be95-0eab20bbc28b.png)
+
+This pie chart shows our riders by gender.
+
 
 ## Summary
-One drawback is that the filter can only look at one city at a time. For example, if someone types El Cajon they cannot serch for other cities at the same time.
 
-Two recommendations for this project can be:-
-* A sort function can be implemented (For example, dates can be sorted in ascending or descending order).
-* A range function can be added (If a user wants to search specific date ranges like if someone only wants to see dates ranging from Jan to March of a certain year).
+From our analysis, we can conclude the folowing:-
+
+* Most of the rentals happen during the weekday around normal work commute times (6am to 9am). This is very important as it shows that there is a need for transportation. If we focus on these times we can have a recurring source of revenue as well as customers.
+* Our customer base mostly consists of men, it would be beneficial if we market our business more towards the female demographic. This would help us get more customers
+* As seen on our User type graph above, we can see that we have more subscribers versus customers. A good portion of our customers have become subscibers, if we provide more perks and lower costs more of our one time customers will convert to subscribers. This will provide us a sustainable source of revenue.
 
 ## Links
-  * Visit this [link](https://github.com/tanzimamin2/UFOs) for other resources.
+  * Visit this [link](https://github.com/tanzimamin2/Bikesharing) for other resources.
    
